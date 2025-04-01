@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-areas/cilium-talks.md",
+                "file": "02-areas/cilium-high-scale-networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cilium-talks"
+              "title": "cilium-high-scale-networking"
             }
           }
         ]
@@ -168,8 +168,9 @@
   },
   "active": "ba8b21bd8fff1150",
   "lastOpenFiles": [
+    "02-areas/cilium-scalability&security.md",
+    "02-areas/cilium-high-scale-networking.md",
     "03-resources/cilium.md",
-    "02-areas/cilium-talks.md",
     "05-daily-notes/cilium.md",
     "04-archive",
     "03-resources",
