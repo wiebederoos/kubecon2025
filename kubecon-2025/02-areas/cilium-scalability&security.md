@@ -1,10 +1,10 @@
-# Scalability & security
-* Security is based on pod labels and namespace labels
-* Two pods in the same namespace with the same label -> share identity
-* Cluster security based on one identity in every cluster
 # Speakers
 * Liz Rice
 * Nega Aggarwal
+# Context
+* Security is based on pod labels and namespace labels
+* Two pods in the same namespace with the same label -> share identity
+* Cluster security based on one identity in every cluster
 # Network performance optimization
 * Identity relevant labels -> reduce amount of security identities
 * Granular filtering -> precise filters to reduce capturing unneeded data
@@ -25,4 +25,4 @@
 
 [[cilium]]
 
-#cilium #security #ebpf
+#cilium #security #ebpf #networking
