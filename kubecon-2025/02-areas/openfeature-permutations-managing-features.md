@@ -1,5 +1,5 @@
 # Speakers
-* Bob Walker
+* Prerit Munjal
 
 # Context / use case
 
