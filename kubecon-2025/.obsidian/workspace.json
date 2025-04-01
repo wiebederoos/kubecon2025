@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-areas/feature-challenges-distributed-computing.md",
+                "file": "02-areas/observability-failures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "feature-challenges-distributed-computing"
+              "title": "observability-failures"
             }
           },
           {
@@ -197,6 +197,7 @@
   },
   "active": "90d9964f1a0802f5",
   "lastOpenFiles": [
+    "03-resources/observability.md",
     "02-areas/observability-failures.md",
     "02-areas/feature-challenges-distributed-computing.md",
     "03-resources/feature-flags.md",
