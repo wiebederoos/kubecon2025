@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-areas/cilium-simplify-multi-cluster-networking.md",
+                "file": "02-areas/linkerd-scaling-progressive-delivery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cilium-simplify-multi-cluster-networking"
+              "title": "linkerd-scaling-progressive-delivery"
             }
           },
           {
@@ -178,12 +178,14 @@
   },
   "active": "ba8b21bd8fff1150",
   "lastOpenFiles": [
+    "02-areas/openfeature-canary-deployments-myth.md",
+    "02-areas/cilium-scalability&security.md",
+    "02-areas/linkerd-scaling-progressive-delivery.md",
     "03-resources/cilium.md",
     "02-areas/cilium-simplify-multi-cluster-networking.md",
-    "02-areas/cilium-cultivating-technical-excellence.md",
-    "02-areas/cilium-scalability&security.md",
     "02-areas/cilium-improving-network-efficiency.md",
     "02-areas/cilium-high-scale-networking.md",
+    "02-areas/cilium-cultivating-technical-excellence.md",
     "05-daily-notes/cilium.md",
     "04-archive",
     "03-resources",

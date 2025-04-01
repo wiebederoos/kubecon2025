@@ -7,5 +7,4 @@
 * MCS-API implementation 
 
 
-[[cilium-scalability&security]]
-#cilium #security #ebpf #observability
+#cilium #security #ebpf #observability #performance #clusters

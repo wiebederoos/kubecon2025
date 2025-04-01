@@ -7,7 +7,7 @@
 ## Why Cilium
 * High performance networking
 * Enhanced observability -> rich pod identity
-* Granual policies -> fine tuned network control
+* Granular policies -> fine tuned network control
 * Future proof since using eBPF
 
 # 3 stories
@@ -29,5 +29,8 @@
 ## 3 - Bonus (make Cilium to use 1TB of memory)
 * Never switch off GOC (the load will slowly build up)
 # Comments
+
+[[cilium]]
+#cilium #security #ebpf #networking
 
 

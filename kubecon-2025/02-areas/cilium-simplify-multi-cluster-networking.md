@@ -36,7 +36,7 @@
 * Showcasing multiple clusters and service endpoints
 * Show service import
 * Show clustermeshes
-* Send requests to multie cluster service via Gateway API -> get answers from all clusters
+* Send requests to multiple cluster service via Gateway API -> get answers from all clusters
 
 # Comments
 

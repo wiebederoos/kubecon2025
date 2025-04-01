@@ -9,8 +9,8 @@
 ## Use case: Cilicium manages Azure IPAM 
 * Challenges:
 	* Legacy stack is not scalable for container networking
-	* Vendor specific code incorporated in Cillium codebase
-	* Cost specific and maintance responsibilities
+	* Vendor specific code incorporated in Cillium code-base
+	* Cost specific and maintenance responsibilities
 	* Various other risks wrt scaling / performance
 * Solution:
 	* Delegated IPAM with Azure overlays
@@ -25,3 +25,5 @@
 
 # Comments
 * Need deeper dive into this and find practical use cases which showcase it
+
+[[cilium]]
