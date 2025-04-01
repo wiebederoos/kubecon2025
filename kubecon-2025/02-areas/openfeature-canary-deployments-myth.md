@@ -17,6 +17,7 @@
 * Swtich to Trunk based development -> merge small improvements from feature branches > don't wait for the feature to finish completely. Essential to get user feedback
 * Feature flags are for SaaS only -> miss 25% of all customers
 * Require expand and contract pattern (longelivity versus dynamism)
+* Not for DB changes (on-prem)
 
 # Comments
 * Good comparison of AWS Lambdas, Azure WebApps, Native K8s, Argo Rollouts (no screenshot -> check slidedeck)

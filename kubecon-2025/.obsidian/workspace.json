@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-areas/openfeature-canary-deployments-myth.md",
+                "file": "02-areas/feature-challenges-distributed-computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "openfeature-canary-deployments-myth"
+              "title": "feature-challenges-distributed-computing"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-areas/linkerd-scaling-progressive-delivery.md",
+                "file": "02-areas/feature-challenges-distributed-computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linkerd-scaling-progressive-delivery"
+              "title": "feature-challenges-distributed-computing"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "linkerd-scaling-progressive-delivery"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 365.51103591918945
   },
   "right": {
     "id": "c625773fa302e023",
@@ -194,12 +195,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba8b21bd8fff1150",
+  "active": "90d9964f1a0802f5",
   "lastOpenFiles": [
-    "02-areas/openfeature-permutations-managing-features.md",
-    "02-areas/openfeature-canary-deployments-myth.md",
-    "02-areas/linkerd-scaling-progressive-delivery.md",
+    "02-areas/observability-failures.md",
+    "02-areas/feature-challenges-distributed-computing.md",
     "03-resources/feature-flags.md",
+    "02-areas/linkerd-scaling-progressive-delivery.md",
+    "02-areas/openfeature-canary-deployments-myth.md",
+    "02-areas/openfeature-permutations-managing-features.md",
+    "02-areas/Untitled",
     "03-resources/cilium.md",
     "02-areas/cilium-improving-network-efficiency.md",
     "01-projects/empty.md",

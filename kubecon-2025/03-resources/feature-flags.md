@@ -1,4 +1,7 @@
-# Links
-* https://openfeature.dev/docs/reference/intro
+# Deeper dive
+* OpenFeature main page https://openfeature.dev/docs/reference/intro
+* CAP Theorem (Consistency, Partition Tolerance, Availability)
+* Rule consistency
+* Rule propagation
 
 #feature-flags #feature-toggles
