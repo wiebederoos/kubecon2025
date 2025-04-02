@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-areas/k8s-data-protection.md",
+                "file": "02-areas/dapr&score-cocktail-for-developer-experience.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "k8s-data-protection"
+              "title": "dapr&score-cocktail-for-developer-experience"
             }
           },
           {
@@ -182,9 +182,11 @@
   },
   "active": "ba8b21bd8fff1150",
   "lastOpenFiles": [
+    "02-areas/linkerd-scaling-progressive-delivery.md",
+    "02-areas/openfeature-canary-deployments-myth.md",
+    "02-areas/k8s-data-protection.md",
     "03-resources/books.md",
     "01-projects/booth-talks.md",
-    "02-areas/k8s-data-protection.md",
     "02-areas/developer-platform-the-bricks-that-made-us.md",
     "02-areas/openfeature-permutations-managing-features.md",
     "02-areas/koney-catch-hackers-with-decoys.md",
@@ -197,10 +199,8 @@
     "03-resources/cilium.md",
     "02-areas/dapr&score-cocktail-for-developer-experience.md",
     "02-areas/feature-challenges-distributed-computing.md",
-    "02-areas/linkerd-scaling-progressive-delivery.md",
     "01-projects/empty.md",
     "03-resources/feature-flags.md",
-    "02-areas/openfeature-canary-deployments-myth.md",
     "02-areas/Untitled",
     "02-areas/cilium-improving-network-efficiency.md",
     "05-daily-notes/empty.md",
