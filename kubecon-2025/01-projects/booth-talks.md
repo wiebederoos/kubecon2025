@@ -17,4 +17,4 @@
 * See a big need in the "save on Egress costs" use case -> working on this feature - no ETA yet
 * Happy to give a demo on site
 
-#gitpod #cloudsmith #repository #registry #feature
+#gitpod #cloudsmith #repository #registry #feature #devex #tools
