@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-areas/koney-catch-hackers-with-decoys.md",
+                "file": "02-areas/k8s-data-protection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "koney-catch-hackers-with-decoys"
+              "title": "k8s-data-protection"
             }
           },
           {
@@ -182,11 +182,15 @@
   },
   "active": "ba8b21bd8fff1150",
   "lastOpenFiles": [
+    "03-resources/books.md",
     "01-projects/booth-talks.md",
+    "02-areas/k8s-data-protection.md",
+    "02-areas/developer-platform-the-bricks-that-made-us.md",
+    "02-areas/openfeature-permutations-managing-features.md",
+    "02-areas/koney-catch-hackers-with-decoys.md",
     "attachments/Koney_Kahlhofer_Golinelli_KubeConEU_8K_PNG.png",
     "attachments",
     "01-projects/keynote-talks.md",
-    "02-areas/koney-catch-hackers-with-decoys.md",
     "02-areas/observability-failures.md",
     "02-areas/sig-instrumentation-deepdive.md",
     "03-resources/observability.md",
@@ -197,7 +201,6 @@
     "01-projects/empty.md",
     "03-resources/feature-flags.md",
     "02-areas/openfeature-canary-deployments-myth.md",
-    "02-areas/openfeature-permutations-managing-features.md",
     "02-areas/Untitled",
     "02-areas/cilium-improving-network-efficiency.md",
     "05-daily-notes/empty.md",
@@ -212,7 +215,6 @@
     "03-resources",
     "02-areas",
     "01-projects",
-    "05-daily-notes",
-    "Welcome.md"
+    "05-daily-notes"
   ]
 }
