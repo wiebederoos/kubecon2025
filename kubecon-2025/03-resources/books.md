@@ -11,4 +11,7 @@ Cloud migration consultants Pini Reznik, Jamie Dobson, and Michelle Gienow draw 
 
 Source:  https://www.oreilly.com/library/view/cloud-native-transformation/9781492048893/
 
+# Building & scaling a platform team
+* Reference to [[platform-team-building&scaling]] (Platform engineering - the guide to...) -> find the book later :)
+
 #book #cloud-native #enterprise-system
