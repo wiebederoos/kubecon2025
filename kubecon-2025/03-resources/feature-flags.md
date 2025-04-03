@@ -4,4 +4,4 @@
 * Rule consistency
 * Rule propagation
 
-#feature-flags #feature-toggles
+#feature-flags #feature-toggles #theorem

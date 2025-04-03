@@ -1,5 +1,6 @@
 # Cloud native transformation
 * Great book for larger enterprise on how to transform to a DevEx Way of Working, obtain greater developer experience. 
+
  ![[../attachments/cloud-native-transformation-book.png]]
 
 ## Extract 
@@ -12,6 +13,17 @@ Cloud migration consultants Pini Reznik, Jamie Dobson, and Michelle Gienow draw 
 Source:  https://www.oreilly.com/library/view/cloud-native-transformation/9781492048893/
 
 # Building & scaling a platform team
-* Reference to [[platform-team-building&scaling]] (Platform engineering - the guide to...) -> find the book later :)
+* Reference to [[platform-team-building&scaling]] (Platform engineering: A Guide for Technical, Product, and People Leaders)
 
-#book #cloud-native #enterprise-system
+![[../attachments/platform-engineering.png]]
+
+## Extract
+Until recently, infrastructure was the backbone of organizations operating software they developed in-house. But now that cloud vendors run the computers, companies can finally bring the benefits of agile custom-centricity to their own developers. Adding product management to infrastructure organizations is now all the rage.
+
+But how's that possible when infrastructure is still the operational layer of the company?
+
+This practical book guides engineers, managers, product managers, and leaders through the shifts that modern platform-led organizations require. You'll learn what platform engineering is—and isn't—and what benefits and value it brings to developers and teams. You'll understand what it means to approach a platform as a product and learn some of the most common technical and managerial barriers to success.
+
+Source: https://www.amazon.com/Platform-Engineering-Technical-Product-Leaders/
+
+#book #cloud-native #enterprise-system  #platform-team 
