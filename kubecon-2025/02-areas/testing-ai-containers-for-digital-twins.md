@@ -38,3 +38,4 @@
 * Hyper parameter optimization
 * Daggerverse (intertwin-eu)
 * Check slides afterwards for more context
+#ai-containers #digital-twins #HPC #distributed #container-runtime #Interlink #singularity #research #government #science

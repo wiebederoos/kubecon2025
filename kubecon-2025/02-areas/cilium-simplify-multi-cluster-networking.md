@@ -42,4 +42,4 @@
 
 [[cilium]]
 
-#cilium #security #ebpf #networking
+#cilium #security #ebpf #networking #gateway-API #gateway

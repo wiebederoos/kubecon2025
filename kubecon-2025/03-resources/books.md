@@ -26,4 +26,4 @@ This practical book guides engineers, managers, product managers, and leaders th
 
 Source: https://www.amazon.com/Platform-Engineering-Technical-Product-Leaders/
 
-#book #cloud-native #enterprise-system  #platform-team 
+#book #cloud-native #enterprise-system  #platform-team #platform-engineering

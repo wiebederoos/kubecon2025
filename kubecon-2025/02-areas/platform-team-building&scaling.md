@@ -26,13 +26,8 @@
  * Earning trust in the early days
  * Conduct market research among the developer community
 	 * Adopt whatever has been created already by the DEV teams 
-
 # Four great challenges / learnings 
 * For details: see screenshots
-
 # Resources
 * Slidedeck: https://static.sched.com/hosted_files/kccnceu2025/80/Starting%20and%20Scaling%20Platform%20Team.pdf
-
-
-
-#platform-team #scaling 
+#platform-team #scaling #onboarding

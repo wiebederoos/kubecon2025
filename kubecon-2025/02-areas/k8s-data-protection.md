@@ -1,11 +1,9 @@
 # Speakers
 * Dave Smith-Uchida
 * Xing Yang
-
 # Context / Use case
 * Current state & future of data-protection in kubernetes
 * Day-1 operations covered very well, Day-2 operations are limited -> k8s secrets / configmaps and data stores in persistent volumes
-
 # Backups & restores in k8s
 ## Application backup
 * 2 sectopns:
@@ -16,9 +14,8 @@
 ## Application restore
  * Using the backup repository to import the back
  * See screenshot for scheme
-
 # Data protection strategies
-* Witepaper for data protection strategies
+* Whitepaper for data protection strategies
 * Great matrix with considerations (strategy, RTO, RPO, App impact, Cost) - see screenshot.
 * Strategies:
 	* GitOps
@@ -34,4 +31,4 @@
 * Slack: # wg-data-protection
 * Very specialized, becomes relevant for advanced / specialized workloads on k8s
 
-#backup #restore #data-protection #rpo #rto
+#backup #restore #data-protection #rpo #rto #storage

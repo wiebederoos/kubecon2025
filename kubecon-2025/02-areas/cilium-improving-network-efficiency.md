@@ -27,5 +27,5 @@
 * Very specialized topic, explained well
 * Need deeper dive into this and find practical use cases which showcase it
 
-#cilicium #network-traffic
+#cilicium #network-traffic #azure #networking #IPAM #CNI
 [[cilium]]

@@ -16,7 +16,6 @@
 	* Anomaly detection
 	* Root cause analysis
 	* Auto remediation
-
 ## Michelin: scaling k8s while reducing costs
 * Changing strategy: embrace open source, remain attractive to employees
 	* MAKE instead of buy ONLY open source

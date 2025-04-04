@@ -24,7 +24,8 @@
 		* AI Agents
 	* Standardize the CI/CD pipelines
 	* Go Keyless (see screenshot)
-
 # Comments
 * Great breakout/disruption -> security is too complex, hindering developers
 * Applying the paradigm shift to shift security NOT to the teams but to have the platform implement them
+
+#shift-left #shift-down #security #platform #platfom-team

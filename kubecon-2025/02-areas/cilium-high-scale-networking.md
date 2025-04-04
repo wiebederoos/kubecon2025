@@ -1,6 +1,5 @@
 # Speakers
 * Luigi Zhou
-
 # Context
 * Run millions on jobs for ML based topics
 * Scale from 100 nodes to 1000 to support upcoming demand
@@ -30,7 +29,7 @@
 * Never switch off GOC (the load will slowly build up)
 # Comments
 * Great talk which explains the different components / topics of interest very well
-* Packed room
+* Very packed room
 
 [[cilium]]
 #cilium #security #ebpf #networking

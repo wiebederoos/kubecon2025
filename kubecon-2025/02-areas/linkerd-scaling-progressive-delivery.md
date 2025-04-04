@@ -21,5 +21,6 @@
 * Earn-in offers Earned Wages to 4+ million customers through an app 
 * Story difficult to follow
 
-#gateway-api #linkerd
+#gateway-api #linkerd #progressive-delivery
+
 [[gateway-api]]

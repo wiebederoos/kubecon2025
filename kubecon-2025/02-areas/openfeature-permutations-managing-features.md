@@ -1,6 +1,5 @@
 # Speakers
 * Prerit Munjal
-
 # Context / use case
 * Developing a feature experimentation framework -> prioritize experiments based on business impact
 ### why
@@ -26,7 +25,6 @@
 ### How
 * Feature management dashboard: see screenshot 
 	* With metrics (see screenshot) before & after and improvements
-
 ### Wow
 * Platform:
 	* Comparability matrix
@@ -37,3 +35,4 @@
 * Speaker also knows about differentiation between normal pods and secure pods
 * Highlights of features offered by KubeTech
 * Super fast talk, missed differentiation / split between the how and wow (makes the talk more clear) -> verify with the speaker
+#openfeature #feature-flags #telemetry #rollouts

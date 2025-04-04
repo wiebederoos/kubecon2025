@@ -1,17 +1,14 @@
 # Speakers
 * Paul Faver
 * Thomas Øther Rasmussen
-
 # Context / use case
 * Lego container platform teams' view on onboarding new applications and keep developers happy.
 * Utilize platform engineering and avoid shadow IT (don't frustrate developers - but keep the balance between autonomy and freedom)
-
 # Establishing standards
 Based on the typical mix of variety: autonomous teams, user variety, etc
 * Seamless experience -> on-prem versus cloud based clusters
 * Highly opinionated: No KubeCTL, only GitOps
 * All included: Ingress, Certificates, DNS, Secret Management, Self Service
-
 # Migration taskforce
 * Ppl from the platform team, dev teammembers, consultants -> Join their dailies
 * 3 archetypes:
@@ -32,8 +29,9 @@ Based on the typical mix of variety: autonomous teams, user variety, etc
 ## Key takeaways
 * Sell your platform
 * Keep users close
-
 # Comments
 * Great story about user engagement, one of the better talks done by engineers
 * 14 platform engineers
 * 50 consumer teams
+
+#developer-platform #adopting #sales #migration

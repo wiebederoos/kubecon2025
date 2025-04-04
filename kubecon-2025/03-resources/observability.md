@@ -6,4 +6,4 @@
 * Journey of a SIG (OpenTelemetry) 
 * OpenTelemetry - concept of spans
 
-#opentelemetry #observability #deepdive
+#opentelemetry #observability #deepdive #examplars
