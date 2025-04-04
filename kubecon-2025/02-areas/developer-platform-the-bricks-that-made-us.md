@@ -34,6 +34,6 @@ Based on the typical mix of variety: autonomous teams, user variety, etc
 * Keep users close
 
 # Comments
-* Great story about user engagement
+* Great story about user engagement, one of the better talks done by engineers
 * 14 platform engineers
 * 50 consumer teams

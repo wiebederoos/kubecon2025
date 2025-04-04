@@ -1,7 +1,6 @@
 # Speakers
 * Mathieu Benoit
 * Maxime Coquerel
-
 # Security governance framework
 * Security review per cloud service
 * Threat model
@@ -9,11 +8,9 @@
 * Pentesting
 * Score card 
 * Cloud governance board
-
 # CNCF 4C security model
 * code, container, cluster, cloud
 * See https://www.cncf.io/blog/2022/02/14/kubernetes-security-best-practices-definitive-guide/ (2022)
-
 # Tips
 * Developer feedback / learnings:
 	* Stay in the inner loop -> abstract Dockerfiles, infrastructure, APIs and the platform itself (see screenshot)

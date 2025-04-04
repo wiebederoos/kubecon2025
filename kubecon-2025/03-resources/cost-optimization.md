@@ -3,6 +3,7 @@
 	* Companies don't dare to step up to this -> business case is still valid for startups
 	* Seeing trends that companies leave the cloud partially due to high costs
 * Companies:
+	* Datafy
 	* CastAI
 	* KubeCost
 * Average cloud bill drop by ~50% (powerpoint proof)

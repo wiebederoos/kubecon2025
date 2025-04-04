@@ -1,10 +1,8 @@
 # Speakers
 * Arthur Outhenin-Chalandre
 * Marco Iorio
-
 # Use case
 * Multi cluster networking -> expand services to use multiple clusters instead of just one
-
 ## Context
 * Make service Endpoint available to all clusters using an API
 * Load balance traffic between multiple clusters using annotations
@@ -39,6 +37,7 @@
 * Send requests to multiple cluster service via Gateway API -> get answers from all clusters
 
 # Comments
+* Demos went very quick, worth to explore later on
 
 
 [[cilium]]

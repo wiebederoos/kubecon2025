@@ -21,3 +21,4 @@
 
 # Comments
 * Good comparison of AWS Lambdas, Azure WebApps, Native K8s, Argo Rollouts (no screenshot -> check slidedeck)
+* Great controversial topic against the trends which many applications don't even need

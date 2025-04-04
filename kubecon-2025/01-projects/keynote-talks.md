@@ -47,7 +47,7 @@
 * From 0 to 3000 deployments in production per week
 * Later offered Nais as a Service (NaaS)
 * Selling software without a Tendering process (5 page document -> search for it)
-	* More difficult then making the platform
+	* More difficult than making the platform
 # Inclusion and accessibility
 * A lot of focus for the following topics:
 	* Inclusion of minorities

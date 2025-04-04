@@ -1,10 +1,8 @@
-
 # Speakers
 * Camille Fournier
 * Ian Nowland
 # Context / use case
 * Tips and Tricks on how to build (start) a successful platform team and to scale it out
-
 # Comments
 * full full house
 * When to start: as soon as the glue between components in your tech stacks hinders changing things

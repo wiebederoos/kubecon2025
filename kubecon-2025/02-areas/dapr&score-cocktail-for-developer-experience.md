@@ -32,5 +32,6 @@
 * Focus on platform interfaces and capabilities
 	* DAPr APIs and SDKs + Score Specification
 * Need to check out the recording - talk was superfast
+* Very useful to lower the stress for developers which should not expand their knowledge even more
 
 

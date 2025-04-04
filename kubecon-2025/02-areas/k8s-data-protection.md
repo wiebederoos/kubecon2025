@@ -32,5 +32,6 @@
 # Comments
 * Consistency during backup: crash consistency, fully consistent, application consistent, inconsistent. See screenshot
 * Slack: # wg-data-protection
+* Very specialized, becomes relevant for advanced / specialized workloads on k8s
 
 #backup #restore #data-protection #rpo #rto

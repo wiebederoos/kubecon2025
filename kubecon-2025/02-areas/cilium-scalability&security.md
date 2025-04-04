@@ -20,6 +20,7 @@
 ### Live demo
 * Use Cilium connectivity perf to analyze your network performance and validate settings
 	* Live demo in the talk itself (status, performance test results)
+* Great demo, highly technical but well explained
 
 
 

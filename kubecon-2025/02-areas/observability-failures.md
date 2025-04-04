@@ -1,7 +1,6 @@
 # Speakers
 * Joe Stephenson
 * Rodney Karemba
-
 # Context / use case
 * Greenfield project -> time to learn new tools and tech
 * Choice of backend not known yet
@@ -11,7 +10,6 @@
 * Switch to Multi Cluster Pattern
 	* Kubernetes cluster
 	* Separate Observability stack
-
 # Blunders
 * Time series explosion: from 2 to 38 million
 	* Kubernetes Attribute Processor
@@ -30,8 +28,6 @@
 * Ensure HA for OpenTelemetry Gateways
 	* Prevent crashes, downtime and datalosses
 	* Switch autoscaling on only if mode is deployment or statefulset, not for others
-
-
 # Comments
 * pre-shared slides: https://static.sched.com/hosted_files/colocatedeventseu2025/ec/Otel-y%20Oops%20-%20Observability%20Day%202025.pptx.pdf
 * Check WARP

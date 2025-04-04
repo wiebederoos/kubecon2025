@@ -32,4 +32,5 @@
 
 # Comments
 * Check out various improvements to OpenFeature (see screenshot)
+* Very good deep dive talk which includes practical scenarios. Aligned with actual use cases in which distributed computing is relevant.
 

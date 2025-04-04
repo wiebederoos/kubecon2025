@@ -29,6 +29,8 @@
 ## 3 - Bonus (make Cilium to use 1TB of memory)
 * Never switch off GOC (the load will slowly build up)
 # Comments
+* Great talk which explains the different components / topics of interest very well
+* Packed room
 
 [[cilium]]
 #cilium #security #ebpf #networking
