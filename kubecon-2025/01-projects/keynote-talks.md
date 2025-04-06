@@ -1,9 +1,10 @@
 # Highlights
 * Google: Dynamic Multi Cluster scheduling
-* SAP: Soevereign cloud-edge continuum for Europe
+	* ![[20250402_094243 1.jpg]]
+* SAP: Sovereign cloud-edge continuum for Europe
 * CNCF: new certification (Certified Open Source Developer) aimed for enterprise grade organizations
 * KubeCon + OpenInfra joined together
-* K8S turns 10, see screenshot for the history (and #cTENcf)
+* K8S turns 10, see attachment for the history (and #cTENcf)
 * Adopting projects within the CNFC: align the project goals with the business interests before bringing them in.
 * Omni -> KGateway sandboxed project @ CNCF
 	* Ambient -> Cost automation for sidecars
@@ -21,6 +22,7 @@
 	* MAKE instead of buy ONLY open source
 * Great architecture picture -> see screenshot
 	* Impact: decreased platform costs -44%, reduced leadtime -85%, Kubernetes footprint x2 
+	* ![[20250403_094157.jpg]]
 
 ## Redhat: rethinking cloud native systems for the age of AI
 * Shift from chat to LLM -> break the monoliths again -> shift to distributed computing
@@ -47,6 +49,9 @@
 * Later offered Nais as a Service (NaaS)
 * Selling software without a Tendering process (5 page document -> search for it)
 	* More difficult than making the platform
+* Screenshots:
+	* ![[20250403_102408.jpg]]
+	* ![[20250403_102856.jpg]]
 # Inclusion and accessibility
 * A lot of focus for the following topics:
 	* Inclusion of minorities

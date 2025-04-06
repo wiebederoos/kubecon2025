@@ -14,6 +14,7 @@
 # Tips
 * Developer feedback / learnings:
 	* Stay in the inner loop -> abstract Dockerfiles, infrastructure, APIs and the platform itself (see screenshot)
+	* ![[20250403_115647.jpg]]
 	* Enable self service: centralize tech documentation (backstage catalog)
 	* Empower developers: increase visibility, enhance education, reduce ticketops
 	* Prevent misconfigurations maturity levels from low to high:
@@ -24,6 +25,7 @@
 		* AI Agents
 	* Standardize the CI/CD pipelines
 	* Go Keyless (see screenshot)
+		* ![[20250403_120751.jpg]]
 # Comments
 * Great breakout/disruption -> security is too complex, hindering developers
 * Applying the paradigm shift to shift security NOT to the teams but to have the platform implement them

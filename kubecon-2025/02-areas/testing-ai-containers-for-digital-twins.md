@@ -7,6 +7,8 @@
 	* Flood impact modeling
 	* Particle detector twin
 * Building an engine for digital twins for multiple communities and consortium
+* Elaboration on Interlink:
+	* ![[20250404_115127.jpg]]
 # Comments
 * Create a common interface for heterogeneous resources
 * Challenges:
@@ -31,7 +33,9 @@
 			* Build -> Interlink -> Test on HPC -> Singularity
 			* Start interlink service
 			* Convert docker to Singularity (image)
+				* ![[20250404_115615.jpg]]
 		* Solution: Dagger + interlink (HPC & Singularity containers before testing) -> see screenshot
+			* ![[20250404_120736.jpg]]
 # Deeper dive
 * Interlink + talk on TUE -> is now CNCF Sandboxed project
 * Very good examples of the research projects being executed

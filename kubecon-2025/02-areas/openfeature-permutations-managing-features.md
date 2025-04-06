@@ -25,6 +25,7 @@
 ### How
 * Feature management dashboard: see screenshot 
 	* With metrics (see screenshot) before & after and improvements
+	* ![[20250401_142442.jpg]]![[20250401_142316.jpg]]
 ### Wow
 * Platform:
 	* Comparability matrix

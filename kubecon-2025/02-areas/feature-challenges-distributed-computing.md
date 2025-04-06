@@ -15,6 +15,7 @@
 # Solutions
 * Interceptor between Value consistency and Rule consistency -> rule consistency paired with consistent context creates value consistency (see screenshot)
 	* Obtain rule consistency -> flag set version addresses 90% of the earlier mentioned fallacies (not network reliability)
+	* ![[20250401_153013.jpg]]
 * Propagate the whole ruleset to downstream services
 	* Fallacies not met: infinite bandwidth, network is secure, transport cost is zero
 	* Obtain: 
@@ -26,8 +27,9 @@
 	* Invalidates 6 out of 8 fallacies
 * Flag value propagation
 	* Only send out evaluated flags to downstream services
+	* ![[20250401_154328.jpg]]
 # Comments
-* Check out various improvements to OpenFeature (see screenshot)
+* Check out various improvements to OpenFeature
 * Very good deep dive talk which includes practical scenarios. Aligned with actual use cases in which distributed computing is relevant.
 
 #openfeature #distributed-computing #feature-flags #partition-tolerance

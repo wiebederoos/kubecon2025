@@ -5,7 +5,6 @@
 ## Environment setup
 * Two nodes: Native Routing & a tunnel based connection between them
 * Using Azure Overlay feature
-
 ## Use case: Cilicium manages Azure IPAM 
 * Challenges:
 	* Legacy stack is not scalable for container networking
@@ -22,6 +21,8 @@
 			* disable ingress controller
 			* disable endpoint health checking
 			* CNI custom conf -> true
+* Screenshots:
+* ![[20250401_104406.jpg]]
 
 # Comments
 * Very specialized topic, explained well

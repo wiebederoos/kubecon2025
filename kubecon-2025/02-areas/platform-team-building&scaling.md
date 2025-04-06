@@ -20,6 +20,7 @@
 ### 3 - Improve productivity
 * Don't just optimize for costs -> curated product approach
 * Developer productivity should be the absolute focus
+* ![[20250402_112019.jpg]]
 
 ## !! Platform teams blend software engineering systems skills with a product focus !!
  * Don't start with product managers
@@ -28,6 +29,7 @@
 	 * Adopt whatever has been created already by the DEV teams 
 # Four great challenges / learnings 
 * For details: see screenshots
+		* ![[20250403_111748.jpg]]![[20250403_113053.jpg]]
 # Resources
 * Slidedeck: https://static.sched.com/hosted_files/kccnceu2025/80/Starting%20and%20Scaling%20Platform%20Team.pdf
 #platform-team #scaling #onboarding

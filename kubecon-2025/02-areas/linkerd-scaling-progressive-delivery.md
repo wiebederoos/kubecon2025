@@ -11,6 +11,7 @@
 * Traffic management to control heavy traffic
 * ArgoCD rollouts for blue/green canary deployments
 * Architecture picture: see screenshot
+	* ![[20250401_134444.jpg]]
 ## Developer enablements
 * Use custom ArgoCD plugin to visualize workflow / canary
 * Create deployment templates to hide servicemesh & LinkerD configuration

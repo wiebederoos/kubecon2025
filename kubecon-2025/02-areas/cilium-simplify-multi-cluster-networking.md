@@ -29,6 +29,7 @@
 * Tight integration with a lot of technologies
 * Supported by Cilium 1.17+
 	* Requires MCS-API CRDs
+		* ![[20250401_112512.jpg]]
 	* Install and enable CoreDNS plugin
 ## Demo 2
 * Showcasing multiple clusters and service endpoints
