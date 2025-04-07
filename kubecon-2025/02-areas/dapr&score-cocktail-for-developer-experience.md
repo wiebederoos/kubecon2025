@@ -15,7 +15,7 @@
 	* Using state API to fetch state(s)
 * Deploy application and promote it through Score - transparently for multiple target environments
 * Overview:
-* ![[20250402_112300.jpg]]
+* ![Dapr overview](../attachments/20250402_112300.jpg)
 # Challenges
 * Containerized workloads run all the time?
 * Promote from DEV to PROD?
@@ -25,16 +25,17 @@
 * Concrete implementation
 	* Generate manifests for score files
 * For both: see screenshot
-	* ![[20250402_113928.jpg]]
+	* ![Score overview](../attachments/20250402_113928.jpg)
 # Comments
 * Great scheme (see screenshot) about internal developer platform enablements
 	* Created / uses Internal Platform Maturity Model from CNCF
-	* ![[20250402_112019 1.jpg]]
+	* ![Maturity model](../attachments/20250402_112019.jpg)
 * Focus on platform interfaces and capabilities
 	* DAPr APIs and SDKs + Score Specification
 * Need to check out the recording - talk was superfast
 * Very useful to lower the stress for developers which should not expand their knowledge even more
 
+# Metadata
 #dapr #score #specification #developers
 
 

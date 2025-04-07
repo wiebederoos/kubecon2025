@@ -6,5 +6,5 @@
 * Endpoint Slice Sync (creates extra load on K8S API server)
 * MCS-API implementation 
 
-
+# Metadata
 #cilium #security #ebpf #observability #performance #clusters #cilium 

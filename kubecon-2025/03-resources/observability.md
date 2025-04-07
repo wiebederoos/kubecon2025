@@ -6,6 +6,7 @@
 * Journey of a SIG (OpenTelemetry) 
 * OpenTelemetry - concept of spans
 
-![[20250402_095141.jpg]]
+![Building Blocks](../attachments/20250402_095141.jpg)
 
+# Metadata
 #opentelemetry #observability #deepdive #examplars

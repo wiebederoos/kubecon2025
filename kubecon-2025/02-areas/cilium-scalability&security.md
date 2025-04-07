@@ -22,8 +22,5 @@
 	* Live demo in the talk itself (status, performance test results)
 * Great demo, highly technical but well explained
 
-
-
-[[cilium]]
-
-#cilium #security #ebpf #networking
+# Metadata
+#cilium #security #ebpf #networking [[cilium]]

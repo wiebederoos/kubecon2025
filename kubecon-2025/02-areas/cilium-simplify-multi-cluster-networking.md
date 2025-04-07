@@ -29,7 +29,7 @@
 * Tight integration with a lot of technologies
 * Supported by Cilium 1.17+
 	* Requires MCS-API CRDs
-		* ![[20250401_112512.jpg]]
+		* ![MCS-API](../attachments/20250401_112512.jpg)
 	* Install and enable CoreDNS plugin
 ## Demo 2
 * Showcasing multiple clusters and service endpoints
@@ -40,7 +40,5 @@
 # Comments
 * Demos went very quick, worth to explore later on
 
-
-[[cilium]]
-
-#cilium #security #ebpf #networking #gateway-API #gateway
+# Metadata
+#cilium #security #ebpf #networking #gateway-API #gateway [[cilium]]

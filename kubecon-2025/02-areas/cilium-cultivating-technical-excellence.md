@@ -9,6 +9,6 @@
 * Use cases: segmentation, multi-cluster, multi-cloud, private cloud, on-prem clusters, scalability
 * Customers: Media, Fintech, Cloud service providers, E-commerce, TelComs
 
+# Metadata
 #cilicum 
-
 [[cilium]] 

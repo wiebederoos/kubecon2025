@@ -25,7 +25,8 @@
 ### How
 * Feature management dashboard: see screenshot 
 	* With metrics (see screenshot) before & after and improvements
-	* ![[20250401_142442.jpg]]![[20250401_142316.jpg]]
+	* ![Metrics dashboard](../attachments/20250401_142442.jpg)
+	* ![Framework](../attachments/20250401_142316.jpg)
 ### Wow
 * Platform:
 	* Comparability matrix
@@ -36,4 +37,6 @@
 * Speaker also knows about differentiation between normal pods and secure pods
 * Highlights of features offered by KubeTech
 * Super fast talk, missed differentiation / split between the how and wow (makes the talk more clear) -> verify with the speaker
+
+# Metadata
 #openfeature #feature-flags #telemetry #rollouts

@@ -13,9 +13,9 @@
 * Cell based architecture -> all dedicated application, cluster, instance, DB
 * Separate deployment of new version versus a new feature
 * Very good picture of layered circle to gradually enable the feature for different types of users (from staff to 100% of all users -> see screenshot)
-	* ![[20250401_144639.jpg]]
+	* ![Progressive delivery](../attachments/20250401_144639.jpg)
 * Expand and Contract Pattern
-	* ![[20250401_145258.jpg]]
+	* ![Expand and contract pattern](../attachments/20250401_145258.jpg)
 ### Challenges
 * Switch to Trunk based development -> merge small improvements from feature branches > don't wait for the feature to finish completely. Essential to get user feedback
 * Feature flags are for SaaS only -> miss 25% of all customers
@@ -26,4 +26,5 @@
 * Good comparison of AWS Lambdas, Azure WebApps, Native K8s, Argo Rollouts (no screenshot -> check slidedeck)
 * Great controversial topic against the trends which many applications don't even need
 
+# Metadata
 #openfeature #canary #releases #deployments #myths #tbd

@@ -16,12 +16,12 @@
 * Custom build# 3 stories
 ## 1 - Map pressure
 * See screenshot -> what's a Map
-	* ![[20250401_095402 1.jpg]]
+	* ![What's a MAP](../attachments/20250401_095402.jpg)
 * Explanation Policy Maps wrt identity, direction, protocol, port and verdict
 	* Instruct Armada to use only relevant labels (namespace as security boundary is not sufficient here)
 ## 2 - Conntrac
 * See screenshot -> what's Conntract (Connection Tracking)
-	* ![[20250401_100307.jpg]]
+	* ![Connection Tracking](../attachments/20250401_100307.jpg)
 * CNI related errors
 	* Unable to remove proxy redirects -> context cancelled before proxy updates
 	* Improper garbage collection since by default its dynamic, based on how many entries are removed in the last interval
@@ -33,7 +33,8 @@
 * Great talk which explains the different components / topics of interest very well
 * Very packed room
 
-[[cilium]]
+# Metadata
 #cilium #security #ebpf #networking
+[[cilium]]
 
 

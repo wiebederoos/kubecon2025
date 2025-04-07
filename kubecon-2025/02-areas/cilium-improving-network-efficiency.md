@@ -22,11 +22,12 @@
 			* disable endpoint health checking
 			* CNI custom conf -> true
 * Screenshots:
-* ![[20250401_104406.jpg]]
+* ![IPAM modes](../attachments/20250401_104406.jpg)
 
 # Comments
 * Very specialized topic, explained well
 * Need deeper dive into this and find practical use cases which showcase it
 
+# Metadata
 #cilicium #network-traffic #azure #networking #IPAM #CNI
 [[cilium]]

@@ -11,7 +11,7 @@
 * Traffic management to control heavy traffic
 * ArgoCD rollouts for blue/green canary deployments
 * Architecture picture: see screenshot
-	* ![[20250401_134444.jpg]]
+	* ![Architecture](../attachments/20250401_134444.jpg)
 ## Developer enablements
 * Use custom ArgoCD plugin to visualize workflow / canary
 * Create deployment templates to hide servicemesh & LinkerD configuration
@@ -22,6 +22,5 @@
 * Earn-in offers Earned Wages to 4+ million customers through an app 
 * Story difficult to follow
 
-#gateway-api #linkerd #progressive-delivery
-
-[[gateway-api]]
+# Metadata
+#gateway-api #linkerd #progressive-delivery [[gateway-api]]

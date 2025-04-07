@@ -17,5 +17,7 @@
 * Pack workloads on single nodes when possible: no separation based on legal and compliance related issues, only view from the technical perspective
 * Usage of spot instances and also predict spot interruptions to avoid downtime when only spot instances are used
 * Switch off nodes when not needed
+
+# Metadata
 #cost-optimization #kubernetes #workloads #skus #on-prem #optimization
 	

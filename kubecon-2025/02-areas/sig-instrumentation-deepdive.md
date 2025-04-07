@@ -26,11 +26,11 @@
 ## Signal correction
 * Introduce the ideal debugging path
 	* metrics -> traces -> logs by sharing the context between traces and structured logs
-		* ![[20250402_121545 1.jpg]]
+		* ![Signal correlation](../attachments/20250402_121545.jpg)
 * Examplars (SIG instrumentation)
-	* ![[20250402_121749.jpg]]
+	* ![Metrics collector](../attachments/20250402_121749.jpg)
 # Resources
 * Link to presentation: https://static.sched.com/hosted_files/kccnceu2025/56/KubeCon%20EU%202025%20-%20SIG%20Instrumentation.pdf
 
-#metrics #sig #instrumentation #observability #signal-correction
-[[observability]]
+# Metadata
+#metrics #sig #instrumentation #observability #signal-correction [[observability]]
