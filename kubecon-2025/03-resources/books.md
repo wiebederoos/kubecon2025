@@ -1,7 +1,8 @@
 # Cloud native transformation
 * Great book for larger enterprise on how to transform to a DevEx Way of Working, obtain greater developer experience. 
 
- ![[../attachments/cloud-native-transformation-book.png]]
+ ![Cloud transformation](../attachments/cloud-native-transformation-book.png)
+ Source: [website oreilly](https://www.oreilly.com/)
 
 ## Extract 
 In the past few years, going cloud native has been a big advantage for many companies. But it’s a tough technique to get right, especially for enterprises with critical legacy systems. This practical hands-on guide examines effective architecture, design, and cultural patterns to help you transform your organization into a cloud native enterprise—whether you’re moving from older architectures or creating new systems from scratch.
@@ -15,7 +16,8 @@ Source:  https://www.oreilly.com/library/view/cloud-native-transformation/978149
 # Building & scaling a platform team
 * Reference to [[platform-team-building&scaling]] (Platform engineering: A Guide for Technical, Product, and People Leaders)
 
-![[../attachments/platform-engineering.png]]
+![platform engineering](../attachments/platform-engineering.png)
+Source: [website oreilly](https://www.oreilly.com/)
 
 ## Extract
 Until recently, infrastructure was the backbone of organizations operating software they developed in-house. But now that cloud vendors run the computers, companies can finally bring the benefits of agile custom-centricity to their own developers. Adding product management to infrastructure organizations is now all the rage.
